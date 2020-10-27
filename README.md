@@ -1,2 +1,2 @@
-# curly-octo-guacamole
+# Practicando Vue
 Practicando Vue
